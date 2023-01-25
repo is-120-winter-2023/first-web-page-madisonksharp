@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["Palooza", "SEO"]
+  "liveServer.settings.CustomBrowser": "firefox",
+  "cSpell.dictionaries": ["lorem-ipsum"],
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
 }
